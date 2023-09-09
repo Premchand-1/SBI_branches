@@ -1,0 +1,2 @@
+passwd:
+printf("passwd")
